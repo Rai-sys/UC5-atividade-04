@@ -1,0 +1,25 @@
+{
+  "name": "uc5-atividade-04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rai-sys/UC5-atividade-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rai-sys/UC5-atividade-04/issues"
+  },
+  "homepage": "https://github.com/Rai-sys/UC5-atividade-04#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "pg": "^8.14.1"
+  }
+}
